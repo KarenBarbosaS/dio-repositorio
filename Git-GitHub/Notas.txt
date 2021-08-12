@@ -1,0 +1,8 @@
+Comandos Básicos:
+
+* CD - Permite a navegação entre pastas
+* DIR - Lista pastas presentes em determinado local
+* CLS - Limpa a tela do cmd (ou Ctrl + L no terminal)
+* MKDIR (Make Directory) - Cria uma pasta
+* RMDIR (Remove Directory) - Remove um repositório desejado (DEL deleta apenas o arquivo)
+* CD.. - Volta para a pasta anterior
