@@ -1,2 +1,2 @@
-# dio-repositorio
-Repositório para futuros projetos bootcamps DIO
+# Repositório DIO
+Repositório para futuros projetos. Bootcamps DIO!
